@@ -1,4 +1,6 @@
-# Tuples Lab 5.2.
+# Tuples 
+# Create a tuple that stores the months of the year
+# From that tuple create another tuple with just summer months
 # Author: Tanja Juric
 
 months = ("January",
