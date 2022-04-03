@@ -49,9 +49,10 @@ I checked Codegrepper to [round the result][4].
 Inputs positive integers and outputs results based on the Collatz Conjecture.   
 If the entered value is even we divide it by 2, if it is odd we multiply it by 3 and add 1.  
 Program ends when the value reaches 1.
-![Comic Collatz](https://imgs.xkcd.com/comics/collatz_conjecture.png)
 
 ###    References
 Checked Codingem on how to [print the result on the same line][6].  
 
 [6]: https://www.codingem.com/python-print-on-the-same-line/
+
+![Comic Collatz](https://imgs.xkcd.com/comics/collatz_conjecture.png)
