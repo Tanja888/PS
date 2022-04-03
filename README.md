@@ -38,5 +38,5 @@ Calculates the BMI (Body Mass Index) :weight_lifting:
 ###     References
 For this task I used Stackoverflow to get the [BMI calculator][1].
 I checked Codegrepper to [round the result][2].  
-    [1]: https://stackoverflow.com/questions/20405610/bmi-calculator-in-python/20405792
-    [2]: https://www.codegrepper.com/code-examples/python/how+to+round+with+format+in+python
+[1]: https://stackoverflow.com/questions/20405610/bmi-calculator-in-python/20405792
+[2]: https://www.codegrepper.com/code-examples/python/how+to+round+with+format+in+python
