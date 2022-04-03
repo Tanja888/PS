@@ -55,4 +55,5 @@ Checked Codingem on how to [print the result on the same line][6].
 
 [6]: https://www.codingem.com/python-print-on-the-same-line/
 
+
 ![Comic Collatz](https://imgs.xkcd.com/comics/collatz_conjecture.png)
