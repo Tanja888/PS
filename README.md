@@ -17,7 +17,7 @@ how to do the link [Google] (https://www.google.com/)
 other link [Google][1]
 again [Google][google]
 
-I used Github README to try references [GithubREADME] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+I used Github README to try references [GithubREADME] [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax]
 
 about emojis [Emojis][2] 
 
