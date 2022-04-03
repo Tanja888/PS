@@ -29,7 +29,7 @@ about emojis [Emojis][2]
 [GithubREADME]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 [2]: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
-# readmetry
+# readme
 ##  bmi.py 
 
 ###    Solution to the Weekly Task 02
