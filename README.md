@@ -19,8 +19,13 @@ again [Google][google]
 
 I used Github README to try references [GithubREADME] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+about emojis [Emojis][2] 
+
+
 :bosnia_herzegovina:
 
 [1]: https://www.google.com/
 [google]: https://www.google.com/
+[GithubREADME]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[2]: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
