@@ -36,8 +36,8 @@ about emojis [Emojis][2]
 Calculates the BMI (Body Mass Index) :weight_lifting:
 
 ###     References
-For this task I used Stackoverflow to get the [BMI calculator][1].
-I checked Codegrepper to [round the result][2].  
+For this task I used Stackoverflow to get the [BMI calculator][3].
+I checked Codegrepper to [round the result][4].  
 
-[1]: https://stackoverflow.com/questions/20405610/bmi-calculator-in-python/20405792
-[2]: https://www.codegrepper.com/code-examples/python/how+to+round+with+format+in+python
+[3]: https://stackoverflow.com/questions/20405610/bmi-calculator-in-python/20405792
+[4]: https://www.codegrepper.com/code-examples/python/how+to+round+with+format+in+python
